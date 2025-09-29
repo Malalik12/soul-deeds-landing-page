@@ -5,17 +5,17 @@ export const NAV_LINKS = ['Home', 'Projects', 'Groups', 'Peoples', 'How it Works
 
 export const HOW_IT_WORKS_STEPS = [
   {
-    icon: 'user',
+    icon: '/images/icon-1.svg',
     title: 'Sign Up Today',
     description: 'Create your SoulDeeds profile.',
   },
   {
-    icon: 'phone',
+    icon: '/images/icon-2.svg',
     title: 'Experience the Platform',
     description: 'Join values-based matches & service-driven events.',
   },
   {
-    icon: 'stars',
+    icon: '/images/icon-3.svg',
     title: 'Share Feedback',
     description: 'Leave your review, and your premium access is yours forever.',
   },
